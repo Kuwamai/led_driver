@@ -13,7 +13,7 @@
 ## Installation
 1. LEDのカソードとGNDの間に抵抗を挟む
 1. LEDのアノードをそれぞれRaspberryPi3のGPIOピン21, 20, 16, 26, 19, 13, 6と接続
-1. 以下のコマンドを実行する
+1. ターミナルで以下のコマンドを実行する
 ```
 git clone https://github.com/Kuwamai/led_driver.git
 cd led_driver
