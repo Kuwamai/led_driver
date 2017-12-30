@@ -3,7 +3,7 @@
 * LEDがチカチカします
 * LEDを振ったり、目をキョロキョロさせると円が浮かび上がります
 * 動画はこんな感じ
- * https://youtu.be/MILlViRW9so
+  * https://youtu.be/MILlViRW9so
 ## Requirements
 * Raspberry Pi3
 * LED * 7
